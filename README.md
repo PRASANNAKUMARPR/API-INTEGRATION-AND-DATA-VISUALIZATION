@@ -158,6 +158,9 @@ This Python task bridges two essential aspects of modern programming — data re
 
 ![Image](https://github.com/user-attachments/assets/47232843-b960-4033-916a-639cc7422bf7)
 
+![Image](https://github.com/user-attachments/assets/7c109606-0258-42ba-87c3-79244975446e)
+
+![Image](https://github.com/user-attachments/assets/e05245da-001c-4a75-88af-d3c61d5febe8)
 
 
 
